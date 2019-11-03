@@ -1,0 +1,10 @@
+C:\Users\Matt Workstation\source\repos\CheckUComputer\CheckUComputer\bin\Debug\CheckUComputer.exe.config
+C:\Users\Matt Workstation\source\repos\CheckUComputer\CheckUComputer\bin\Debug\CheckUComputer.exe
+C:\Users\Matt Workstation\source\repos\CheckUComputer\CheckUComputer\bin\Debug\CheckUComputer.pdb
+C:\Users\Matt Workstation\source\repos\CheckUComputer\CheckUComputer\obj\Debug\CheckUComputer.csprojAssemblyReference.cache
+C:\Users\Matt Workstation\source\repos\CheckUComputer\CheckUComputer\obj\Debug\CheckUComputer.Form1.resources
+C:\Users\Matt Workstation\source\repos\CheckUComputer\CheckUComputer\obj\Debug\CheckUComputer.Properties.Resources.resources
+C:\Users\Matt Workstation\source\repos\CheckUComputer\CheckUComputer\obj\Debug\CheckUComputer.csproj.GenerateResource.cache
+C:\Users\Matt Workstation\source\repos\CheckUComputer\CheckUComputer\obj\Debug\CheckUComputer.csproj.CoreCompileInputs.cache
+C:\Users\Matt Workstation\source\repos\CheckUComputer\CheckUComputer\obj\Debug\CheckUComputer.exe
+C:\Users\Matt Workstation\source\repos\CheckUComputer\CheckUComputer\obj\Debug\CheckUComputer.pdb
